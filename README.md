@@ -12,5 +12,5 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 ### Contribuciones
 
-1. Contribución de: @gasdar
-2. Contribución de: @g0sd0r0ux
+1. Contribución de: gasdar
+2. Contribución de: g0sd0r0ux
